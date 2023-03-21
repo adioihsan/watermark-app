@@ -1,0 +1,6 @@
+.photos_form {
+  margin: 0 auto;
+  width: 500px;
+  display: grid;
+  gap: 1rem;
+}
